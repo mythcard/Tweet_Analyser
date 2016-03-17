@@ -1,8 +1,8 @@
 # Tweet_Analyser
 
-Tweet Analyser is still in the developmentment phase:
-Its currently a single page single user system
-Its job is to extract tweets from user timeline and try classify tweets from future timeline
+Tweet Analyser is still in the development phase:
+Its currently a single page single user system.
+Its job is to extract tweets from user timeline and try classify tweets from future timeline.
 
 Currently we are in labelling phase where we are labeling tweets directly from the user.
 The labelling are of 2 categories:
